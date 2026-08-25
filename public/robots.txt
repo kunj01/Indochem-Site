@@ -1,0 +1,6 @@
+# robots.txt — Indo Chem
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://indochem.in/sitemap.xml
